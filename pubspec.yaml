@@ -1,0 +1,41 @@
+name: contacts_app
+description: Пример Flutter-клиента для FastAPI
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  dio: ^5.9.0
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  font_awesome_flutter: ^10.10.0
+  get_it: ^8.2.0
+  http: ^1.5.0
+  json_annotation: ^4.9.0
+  flutter_appauth: ^9.0.1
+  flutter_riverpod: ^2.6.1
+  google_fonts: ^6.3.1
+  jwt_decoder: ^2.0.1
+  intl:
+  flutter_secure_storage: ^9.2.4
+  model_viewer_plus: ^1.9.3
+  path_provider: ^2.1.5
+  isar_community: ^3.3.0
+  isar_community_flutter_libs: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.3.0
+  json_serializable:
+  isar_community_generator: ^3.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/logo/
+    - assets/models/runner.glb

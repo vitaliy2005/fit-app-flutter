@@ -1,0 +1,9 @@
+export 'fit_carousel.dart';
+export 'water_tracker_widget.dart';
+export 'nutrition_widget.dart';
+export 'bottom_panel_widget.dart';
+export 'side_icon_button_widget.dart';
+export 'back_button_widget.dart';
+export 'detail_widget.dart';
+export 'drinks_bottom_panel.dart';
+export 'drawer_widget.dart';

@@ -45,6 +45,11 @@ flutter_*.png
 linked_*.ds
 unlinked.ds
 unlinked_spec.ds
+.idea/
+.DS_Store
+.metadata
+contacts.iml
+contacts_app.iml
 
 # Android related
 **/android/**/gradle-wrapper.jar
